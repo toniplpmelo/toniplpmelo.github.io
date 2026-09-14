@@ -71,6 +71,7 @@
   {{- end }}
   {{- if not (.Param "hideMeta") }}
   <footer class="entry-footer">
+    {{- with .Params.editPost.Text }}<span class="entry-venue"><strong>{{ . }}</strong></span>&nbsp;&middot;&nbsp;{{ end }}
     {{- partial "post_meta.html" . -}}
   </footer>
   {{- end }}
