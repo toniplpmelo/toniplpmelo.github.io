@@ -9,7 +9,7 @@ taxonomies:
     tag: tags
 menu:
     main:
-        - name: Papers
+        - name: Publications
           url: papers/
           weight: 1
         - name: Working papers
@@ -53,7 +53,7 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
+            - name: Publications
               url: papers/
             - name: Working papers
               url: working-papers/

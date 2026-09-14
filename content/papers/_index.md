@@ -1,4 +1,4 @@
 ---
-title: "Papers"
-description: "Research papers by António Melo."
+title: "Publications"
+description: "Peer-reviewed publications by António Melo."
 ---
