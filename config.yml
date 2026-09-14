@@ -48,7 +48,7 @@ params:
     profileMode:
           enabled: true
           title: António Melo
-          subtitle: "I am a microeconomist and Policy Analyst at the OECD Directorate for Employment, Labour and Social Affairs, where I work on adult skills (PIAAC) and unemployment insurance reform. I hold a Ph.D. in Economics from Université Paris Dauphine. My research covers labour markets, social protection and work incentives, and the economics of health, education and gender."
+          subtitle: "I am a microeconomist and Policy Analyst at the OECD Directorate for Employment, Labour and Social Affairs, where I work on adult skills (PIAAC) and unemployment insurance reform. I hold a Ph.D. in Economics from Université Paris Dauphine. My research covers labour markets, social protection, and the economics of health, education and gender."
           imageUrl: picture.jpeg
           imageWidth: 160
           imageHeight: 160
