@@ -74,8 +74,6 @@ params:
           url: https://www.linkedin.com/in/antoniopmelo
         - name: GitHub
           url: https://github.com/toniplpmelo
-        - name: Twitter
-          url: https://x.com/tonipmelo
     assets:
         disableScrollBarStyle: true
     cover:
