@@ -1,6 +1,6 @@
 ---
 title: "Labor Market Concentration, Wages and Job Security in Europe"
-date: 2026-01-01
+date: 2026-05-01
 tags: ["labour market concentration","monopsony","wages","job security","Europe"]
 author: ["Andrea Bassanini","Giulia Bovini","Eve Caroli","Jorge Casanova Ferrando","Federico Cingano","Paolo Falco","Florentino Felgueroso","Marcel Jansen","Pedro S. Martins","António Melo","Michael Oberfichtner","Martin Popp"]
 description: "First comparable cross-country evidence on the impact of labour market concentration on wages and job security, using linked employer-employee data from six European countries. Journal of Human Resources, 2026."
