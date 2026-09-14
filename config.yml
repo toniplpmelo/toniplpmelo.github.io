@@ -12,9 +12,15 @@ menu:
         - name: Papers
           url: papers/
           weight: 1
+        - name: Working papers
+          url: working-papers/
+          weight: 2
         - name: Reports
           url: reports/
-          weight: 2
+          weight: 3
+        - name: CV
+          url: cv.pdf
+          weight: 4
 params:
     description: "António Melo, microeconomist and Policy Analyst at the OECD. Research on labour markets, social protection, health, education and gender."
     author: António Melo
@@ -31,7 +37,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: [papers, reports]
+    MainSections: [papers, working-papers, reports]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -49,6 +55,8 @@ params:
           buttons:
             - name: Papers
               url: papers/
+            - name: Working papers
+              url: working-papers/
             - name: Reports
               url: reports/
             - name: Curriculum vitae
