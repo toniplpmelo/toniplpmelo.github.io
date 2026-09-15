@@ -4,7 +4,7 @@ date: 2025-12-01
 tags: ["bullying","gender","education","peer effects","Italy"]
 author: ["Scott Cunningham","Maria Laura Di Tommaso","António Melo","Silvia Mendolia","Giulia Savio"]
 description: "Gender differences in bullying and the effect of classroom gender composition on girls' victimisation, using Italian INVALSI data on primary school students. IZA Discussion Paper 18332, 2025."
-summary: "Using Italian INVALSI data on primary school students and quasi-random allocation of students to classes, we show that a higher share of boys increases reported victimization among girls."
+summary: "Using Italian INVALSI data on primary school students and quasi-random allocation of students to classes, this paper shows that a higher share of boys increases reported victimization among girls."
 editPost:
     URL: "https://docs.iza.org/dp18332.pdf"
     Text: "IZA Discussion Paper"

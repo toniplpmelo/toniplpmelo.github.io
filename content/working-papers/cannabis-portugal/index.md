@@ -4,7 +4,7 @@ date: 2022-06-01
 tags: ["cannabis","tax revenue","drug policy","Portugal"]
 author: ["Alexandre Mendonça","António Melo","Diogo Conceição","Filipe Caires","Mariana Esteves","Pedro Rosado"]
 description: "Estimates of the market size, tax revenue and employment effects of legalising cannabis for adult recreational use in Portugal. Working paper, 2022."
-summary: "We estimate the size of the illegal cannabis market in Portugal and the market size, fiscal revenue and jobs that legalisation for adult use could generate."
+summary: "This paper estimates the size of the illegal cannabis market in Portugal and the market size, fiscal revenue and jobs that legalisation for adult use could generate."
 editPost:
     URL: "https://doi.org/10.13140/RG.2.2.33551.29602"
     Text: "Working paper"
