@@ -14,7 +14,7 @@ editPost:
 + [Published version](https://doi.org/10.3368/jhr.0223-12757R1)
 ---
 ##### Abstract
-We leverage administrative linked employer–employee data from six European countries to provide the first comparable cross-country evidence on the impact of labor market concentration on wages and job security. We find strikingly similar and relatively low wage elasticities across countries, but greater elasticities for job security, as measured by contract type. We provide suggestive evidence that the similarity of our wage elasticities and the greater sensitivity of job security to labor market concentration may be explained by the fact that sector-level collective bargaining is dominant in the countries we study and that it sets wages but usually not contract type.
+This paper leverages administrative linked employer–employee data from six European countries to provide the first comparable cross-country evidence on the impact of labor market concentration on wages and job security. It finds strikingly similar and relatively low wage elasticities across countries, but greater elasticities for job security, as measured by contract type. It also provides suggestive evidence that the similarity of our wage elasticities and the greater sensitivity of job security to labor market concentration may be explained by the fact that sector-level collective bargaining is dominant in the countries studied and that it sets wages but usually not contract type.
 
 ---
 ##### Citation
